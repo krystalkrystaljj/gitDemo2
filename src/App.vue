@@ -3,6 +3,7 @@
     <router-view></router-view>
     <h2>标题</h2>
     <span>lalala</span>
+    <div>我是div</div>
   </div>
 </template>
 
