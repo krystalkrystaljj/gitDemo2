@@ -4,6 +4,7 @@
     <h2>标题</h2>
     <span>lalala</span>
     <div>我是div</div>
+    <strong>我是strong</strong>
   </div>
 </template>
 
