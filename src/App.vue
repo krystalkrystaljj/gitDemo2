@@ -2,6 +2,7 @@
   <div class="app">
     <router-view></router-view>
     <h2>标题</h2>
+    <span>lalala</span>
   </div>
 </template>
 
